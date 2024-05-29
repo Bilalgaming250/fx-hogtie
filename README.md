@@ -8,10 +8,10 @@ Standalone script for RedM which disables players from breaking free from lasso 
 # Installation
 
 ## Manual
- • Download and install ox_lib (Dependency) 
- • Download the script
- • Drag and drop the script into your resources folder
- • Add `ensure fx-hogtie` in your server.cfg so the script starts with the server
+ - Download and install ox_lib (Dependency) 
+ - Download the script
+ - Drag and drop the script into your resources folder
+ - Add `ensure fx-hogtie` in your server.cfg so the script starts with the server
 
 # Buy me a coffee
 
