@@ -1,5 +1,8 @@
 # fx-hogtie
- 
+
+ ![hogtie-transformed](https://github.com/Bilalgaming250/fx-hogtie/assets/76534698/133e293a-e431-4539-9982-7b60be3f7c81)
+ *Image Credits: Rockstar*
+
 Standalone script for RedM which disables players from breaking free from lasso when players are around them and this script also disables players from giving up when tied.
 
 # Dependencies
